@@ -11,4 +11,4 @@
 <br></br>
 (2)Programming Language:C#
 <br></br>
-(3)Technical Architecture:DOTNet,C/S
+(3)Keywords:DOTNet,C/S
